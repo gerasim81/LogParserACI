@@ -9,6 +9,8 @@ public class Message implements Comparable<Message>{
 	
 	//Op-pa gangham style!
 	
+	//New change
+	
 	public Message(Date datetime, String message) {
 		this.datetime = datetime;
 		this.message = message;
