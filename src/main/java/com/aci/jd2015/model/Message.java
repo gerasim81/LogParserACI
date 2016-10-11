@@ -17,6 +17,7 @@ public class Message implements Comparable<Message>{
 	}
 
 	//master change
+	//very new change
 	public Date getDatetime() {
 		return datetime;
 	}
